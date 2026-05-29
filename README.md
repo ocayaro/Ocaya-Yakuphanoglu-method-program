@@ -1,22 +1,5 @@
-# Accurate I-V Characterization of MOS/MS Devices via Ocaya-Yakuphanoğlu Analysis
-#
-# Author: Ocaya, R.O.
-# Date: May 29, 2026
-# Open-source for educational usage.
-# This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
-# You are free to share and adapt the work, provided appropriate credit is given.
-# For details, visit: https://creativecommons.org/licenses/by/4.0/
-# This program performs an iterative extraction of series resistance (Rs) and ideality factor (n)
-# from current-voltage (I-V) characteristics of a diode, based on the method proposed by Cheung and Cheung.
-# It also compares the results with Norde and our method (OY).
-# It calculates key diode parameters, including the saturation current (I0) and barrier height (Phi_B).
-# The code is designed for batch processing of multiple experimental datasets.
-
-
 ========================================================================
 Ocaya-Yakuphanoğlu (OY) Analysis & Diode I-V Characterization
-========================================================================
-
 An advanced, open-source Python tool for automated parameter extraction and series resistance (Rs) compensation in Metal-Oxide-Semiconductor (MOS) and Metal-Semiconductor (MS) Schottky devices. This repository implements the Ocaya-Yakuphanoğlu (OY) Method alongside classic diagnostic 
 models (Cheung & Cheung and Norde) to analyze experimental current-voltage (I-V) characteristics and correct for severe bias-induced distortions.
 
