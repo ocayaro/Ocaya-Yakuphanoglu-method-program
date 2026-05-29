@@ -1,6 +1,3 @@
-Run the program on Google Colab: https://colab.research.google.com/drive/1deYnvR8JGWiC0skYQ4PFQECQakCOSWsl#scrollTo=AXMbEuyFpxzu
-
-========================================================================
 Ocaya-Yakuphanoğlu (OY) Analysis & Diode I-V Characterization
 An advanced, open-source Python tool for automated parameter extraction and series resistance (Rs) compensation in Metal-Oxide-Semiconductor (MOS) and Metal-Semiconductor (MS) Schottky devices. This repository implements the Ocaya-Yakuphanoğlu (OY) Method alongside classic diagnostic 
 models (Cheung & Cheung and Norde) to analyze experimental current-voltage (I-V) characteristics and correct for severe bias-induced distortions.
